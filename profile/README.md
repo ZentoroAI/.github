@@ -1,30 +1,38 @@
 # 🌟 Welcome to Zentoro AI!
 
-Welcome to the official GitHub organization for **Zentoro AI** — a dynamic, AI-supported ecosystem built to empower early-stage founders and entrepreneurs. At Zentoro, we’re reimagining how startups grow, connect, and succeed.
+Welcome to the official GitHub organization for **Zentoro AI**, founded in March 2025. We are a cutting-edge, AI-powered ecosystem designed to accelerate innovation for early-stage founders and entrepreneurs. At Zentoro, we integrate advanced AI, data-driven insights, and productivity tools to revolutionize how startups build, connect, and scale.
 
 ---
 
 ## 🚀 What is Zentoro?
 
-**Zentoro** is an AI-powered, community-driven platform designed to help founders:
+**Zentoro** is a robust, AI-driven startup platform engineered to optimize every stage of a founder’s journey. Our modular architecture combines AI productivity systems, dynamic community integrations, and investor-focused solutions to help founders:
 
-* **Build smarter** with AI-driven productivity tools.
-* **Connect deeper** through loyalty-powered communities and investor matchmaking.
-* **Scale faster** with tailored resources, insights, and growth guidance.
+* **Build smarter** with AI-enhanced workflows and intelligent task management.
+* **Connect deeper** through loyalty-powered communities, advanced founder-investor matchmaking, and knowledge sharing.
+* **Scale faster** with data-driven growth strategies, predictive analytics, and targeted resource allocation.
 
-Our flagship features include:
+---
 
-* 📝 **Focus Page**: Stay on track with your goals and tasks.
-* 🌐 **Community Hub**: Engage with like-minded founders and mentors.
-* 💰 **Capital Page**: Connect with investors and funding opportunities.
-* 📄 **Docs Lab**: Streamline your startup documentation.
-* 🤖 **Mr. Toro**: Your personal AI mentor and guide.
+## 🔑 Core Features
+
+Our platform includes a suite of integrated modules tailored for modern founders:
+
+* 📝 **Focus Page**: A dynamic workspace that uses AI to prioritize, organize, and execute key startup tasks efficiently.
+* 🌐 **Community Hub**: A scalable ecosystem for networking, mentorship, and collaboration with like-minded entrepreneurs and domain experts.
+* 💰 **Capital Page**: An investor-matching engine that leverages AI to identify and connect with funding opportunities aligned with your business profile.
+* 📄 **Docs Lab**: An intelligent documentation system that streamlines investor updates, legal paperwork, and operational records.
+* 🤖 **Mr. Toro**: An AI mentor that provides personalized guidance, actionable insights, and adaptive learning tailored to your startup’s stage.
 
 ---
 
 ## 📱 Zentoro App (Android)
 
-The **zentoro-app** is our dedicated Android application, bringing the power of Zentoro to your mobile device. Whether you’re collaborating with your team or tracking your startup’s progress on the go, the app keeps you connected.
+The **zentoro-app** is our flagship Android application that brings the full power of Zentoro to your mobile device. Designed for on-the-go founders, the app features:
+
+* Seamless team collaboration and task tracking.
+* Real-time updates on investor matches and community discussions.
+* Secure, scalable architecture optimized for enterprise-grade performance.
 
 👉 [Zentoro Android App]() (Play Store link coming soon!)
 
@@ -32,32 +40,42 @@ The **zentoro-app** is our dedicated Android application, bringing the power of 
 
 ## 🌐 Our Mission
 
-At Zentoro AI, our mission is to democratize startup success by combining cutting-edge AI, vibrant communities, and deep human insights. We believe that by fostering collaboration, sharing knowledge, and supporting founders at every step, we can turn dreams into thriving businesses.
+At Zentoro AI, our mission is to redefine how startups succeed by integrating:
+
+* **Artificial Intelligence**: Advanced algorithms for productivity, matchmaking, and predictive analytics.
+* **Human-Centric Design**: Tools that adapt to each founder’s unique journey.
+* **Data-Driven Insights**: Actionable intelligence to empower decision-making at every stage.
+
+We believe that founders armed with the right technology and community can transform industries and shape the future.
 
 ---
 
-## 🤝 Join Us!
+## 📣 Stay Connected
 
-We’re building an inclusive, global community of innovators. Here’s how you can get involved:
+Join our expanding global network of innovators, investors, and experts:
 
-* **Explore our social platforms** to see what we’re building:
+* [LinkedIn](https://www.linkedin.com/company/zentoro-ai)
+* [X (formerly Twitter)](https://x.com/zentoro_ai)
+* [WhatsApp Channel](https://whatsapp.com/channel/0029VbAOu6BBvvsYBbDmDu0z)
+* [Instagram](https://instagram.com/zentoro.ai)
 
-  * [LinkedIn](https://www.linkedin.com/company/zentoro-ai)
-  * [X (formerly Twitter)](https://x.com/zentoro_ai)
-  * [WhatsApp Channel](https://whatsapp.com/channel/0029VbAOu6BBvvsYBbDmDu0z)
-  * [Instagram](https://instagram.com/zentoro.ai)
-* **Join discussions** to share feature requests and ask questions.
-* **Stay tuned** for our launch — we’re excited to help you with your startup projects, tools, and opportunities!
+Stay informed about feature releases, community highlights, and exclusive events.
 
 ---
 
 ## 📫 Contact
 
-Got questions or ideas? Feel free to:
+For partnership inquiries, product demos, or connection, please reach out:
 
-* Contact us at [support@garudexlabs.com](mailto:support@garudexlabs.com).
-* Check out our progress on the [Wiki](https://github.com/ZentoroAI/.github/wiki).
-* Or connect with us on our main [Zentoro Promo Website](http://www.garudexlabs.com) (waitlist sign-up available!).
+* 📧 [zentoro@garudexlabs.com](mailto:zentoro@garudexlabs.com)
+* 🔗 Learn more on our [Promo Website](http://www.garudexlabs.com) (waitlist sign-up available).
+* 📖 Visit our [Wiki](https://github.com/ZentoroAI/.github/wiki) for technical documentation and feature overviews.
+
+---
+
+## 🔒 Commercial License Notice
+
+Zentoro AI is a commercial software product and ecosystem. Unauthorized redistribution or reverse engineering is strictly prohibited. For licensing information, please contact [support@garudexlabs.com](mailto:support@garudexlabs.com).
 
 ---
 
