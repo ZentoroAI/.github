@@ -56,7 +56,7 @@ We’re building an inclusive, global community of innovators. Here’s how you 
 Got questions or ideas? Feel free to:
 
 * Contact us at [support@garudexlabs.com](mailto:support@garudexlabs.com).
-* Check out our progress on the [Wiki](https://github.com/ZentoroAI/.github/profile/wiki.md).
+* Check out our progress on the [Wiki](https://github.com/ZentoroAI/.github/blob/main/profile/wiki.md).
 * Or connect with us on our main [Zentoro Promo Website](http://www.garudexlabs.com) (waitlist sign-up available!).
 
 ---
